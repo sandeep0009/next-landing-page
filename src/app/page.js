@@ -1,6 +1,7 @@
 import Banner from "@/components/Banner";
 import Client from "@/components/Client";
 import Hero from "@/components/Hero";
+import Manage from "@/components/Manage";
 import Message from "@/components/Message";
 import Navbar from "@/components/Navbar";
 
@@ -16,6 +17,7 @@ export default function Home() {
             <Message/>
 
             <Banner/>
+            <Manage/>
 
     </div>
   
