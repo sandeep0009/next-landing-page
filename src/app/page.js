@@ -4,6 +4,7 @@ import Hero from "@/components/Hero";
 import Manage from "@/components/Manage";
 import Message from "@/components/Message";
 import Navbar from "@/components/Navbar";
+import Testimonial from "@/components/Testimonial";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
 
             <Banner/>
             <Manage/>
+            <Testimonial/>
 
     </div>
   
