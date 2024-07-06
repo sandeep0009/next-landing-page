@@ -1,4 +1,5 @@
 import Banner from "@/components/Banner";
+import Card from "@/components/Card";
 import Client from "@/components/Client";
 import Hero from "@/components/Hero";
 import Manage from "@/components/Manage";
@@ -20,6 +21,7 @@ export default function Home() {
             <Banner/>
             <Manage/>
             <Testimonial/>
+            <Card/>
 
     </div>
   
